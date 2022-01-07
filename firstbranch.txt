@@ -1,1 +1,2 @@
-adding a text file to the branch
+adding a text file to the branch.
+adding more info
